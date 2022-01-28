@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Platforms>AnyCPU;x86</Platforms>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x86'">
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="1.png" />
+    <None Remove="background.png" />
+    <None Remove="Resources\1.png" />
+    <None Remove="Resources\background.png" />
+    <None Remove="Resources\off.png" />
+    <None Remove="Resources\on.png" />
+    <None Remove="Resources\plane.png" />
+    <None Remove="Resources\qv.png" />
+    <None Remove="Resources\to_left.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NAudio" Version="2.0.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+    <PackageReference Include="System.Speech" Version="6.0.0-rc.2.21480.5" />
+    <PackageReference Include="Vosk" Version="0.3.31" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="1.png" />
+    <Resource Include="background.png" />
+    <Resource Include="Resources\background.png" />
+    <Resource Include="Resources\off.png" />
+    <Resource Include="Resources\on.png" />
+    <Resource Include="Resources\plane.png" />
+    <Resource Include="Resources\qv.png" />
+    <Resource Include="Resources\to_left.png" />
+  </ItemGroup>
+
+</Project>

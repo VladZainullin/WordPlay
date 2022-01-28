@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "iHFAmt6tGhZJjattJcTja3hJ0ftxZyfQ7cvEV96FEfi/VwRP43WZZ2roskHD3PbSjpy+4K25OpGU+DnfDeHYnw==",
+  "success": true,
+  "projectFilePath": "/Users/vadislavzainullin/MEGAsync/RiderProjects/WordPlay/WordPlay/WordPlay.csproj",
+  "expectedPackageFiles": [
+    "/Users/vadislavzainullin/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/vadislavzainullin/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "/Users/vadislavzainullin/.nuget/packages/naudio/2.0.1/naudio.2.0.1.nupkg.sha512",
+    "/Users/vadislavzainullin/.nuget/packages/naudio.asio/2.0.0/naudio.asio.2.0.0.nupkg.sha512",
+    "/Users/vadislavzainullin/.nuget/packages/naudio.core/2.0.0/naudio.core.2.0.0.nupkg.sha512",
+    "/Users/vadislavzainullin/.nuget/packages/naudio.midi/2.0.1/naudio.midi.2.0.1.nupkg.sha512",
+    "/Users/vadislavzainullin/.nuget/packages/naudio.wasapi/2.0.0/naudio.wasapi.2.0.0.nupkg.sha512",
+    "/Users/vadislavzainullin/.nuget/packages/naudio.winforms/2.0.1/naudio.winforms.2.0.1.nupkg.sha512",
+    "/Users/vadislavzainullin/.nuget/packages/naudio.winmm/2.0.1/naudio.winmm.2.0.1.nupkg.sha512",
+    "/Users/vadislavzainullin/.nuget/packages/runtime.native.system.data.sqlclient.sni/4.7.0/runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "/Users/vadislavzainullin/.nuget/packages/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/vadislavzainullin/.nuget/packages/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/vadislavzainullin/.nuget/packages/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/vadislavzainullin/.nuget/packages/system.data.sqlclient/4.8.3/system.data.sqlclient.4.8.3.nupkg.sha512",
+    "/Users/vadislavzainullin/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "/Users/vadislavzainullin/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
+    "/Users/vadislavzainullin/.nuget/packages/system.speech/6.0.0-rc.2.21480.5/system.speech.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "/Users/vadislavzainullin/.nuget/packages/vosk/0.3.31/vosk.0.3.31.nupkg.sha512"
+  ],
+  "logs": []
+}
